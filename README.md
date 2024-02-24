@@ -27,9 +27,9 @@ This project contains the source code for Himanshu Maurya's personal website. It
 
 ## Project_Images
 
-![Home Page](/PRODIGY_WD_04/resources/project_images/home.png)
-![About Me Page](/PRODIGY_WD_04/resources/project_images/about_me.png)
-![Contact Me Page](/PRODIGY_WD_04/resources/project_images/contact_me.png)
+![Home Page](./PRODIGY_WD_04/resources/project_images/home.png)
+![About Me Page](./PRODIGY_WD_04/resources/project_images/about_me.png)
+![Contact Me Page](./PRODIGY_WD_04/resources/project_images/contact_me.png)
 
 ## Installation
 
@@ -38,12 +38,12 @@ To run the website locally, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/himanshumaurya0007/personal-website.git
+git clone https://github.com/himanshumaurya0007/PRODIGY_WD_04.git
 ```
 
 2. Move to the `index.html` file folder.
 
-```
+```bash
 cd  PRODIGY_WD_04/html/
 ```
 
