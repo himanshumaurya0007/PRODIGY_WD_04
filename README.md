@@ -27,9 +27,9 @@ This project contains the source code for Himanshu Maurya's personal website. It
 
 ## Project_Images
 
-![Home Page](./PRODIGY_WD_04/resources/project_images/home.png)
-![About Me Page](./PRODIGY_WD_04/resources/project_images/about_me.png)
-![Contact Me Page](./PRODIGY_WD_04/resources/project_images/contact_me.png)
+![Home Page](./resources/project_images/home.png)
+![About Me Page](./resources/project_images/about_me.png)
+![Contact Me Page](./resources/project_images/contact_me.png)
 
 ## Installation
 
