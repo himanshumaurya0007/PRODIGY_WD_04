@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, 'Segoe UI', Georgia, 'Times New Roman', Times, serif, sans-serif;
+}
+
+header {
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    position: fixed;
+    background-color: #ffffff;
+    align-content: center;
+    z-index: 999;
+    transition: background-color 0.3s ease;
+}
+
+.container-left h1 {
+    font-weight: 200;
+}
+
+#navbar-menu a {
+    color: #000000;
+    text-decoration: none;
+    padding-left: 7px;
+    padding-right: 7px;
+    font-weight: 500;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#navbar-menu a:hover {
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+header.scrolled {
+    background-color: #afafaf;
+}
+
+#navbar-menu a.active {
+    background-color: #999999; 
+    color: #fff;
+}
+
+footer {
+    position: relative;
+    top: 70px;
+}
+
+.upper-section {
+    padding: 15px 75px;
+    display: flex;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    justify-content: space-between;
+}
+
+.upper-section h4 {
+    padding-bottom: 15px;
+}
+
+.upper-section li {
+    list-style-type: none;
+}
+
+.upper-section a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 14px;
+}
+
+.upper-section a:hover {
+    text-decoration: underline;
+    color: #0000ff;
+    font-size: 14px;
+}
+
+
+.section-1 {
+    width: 30%;
+}
+
+.section-2, .section-3 {
+    width: 35%;
+}
+
+.section-2 p, .section-3 p {
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+.section-2 nav ul, .section-3 nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.section-2 nav ul li, .section-3 nav ul li {
+    margin-right: 10px;
+}
+
+.section-2 nav ul li:last-child, .section-3 nav ul li:last-child {
+    margin-right: 0;
+}
+
+.section-2 nav ul li img, .section-3 nav ul li img {
+    width: 40px; 
+    height: auto; 
+}
+
+.lower-section {
+    font-size: 12px;
+    padding: 15px 50px;
+}
+
+/********************************************************************* CONTACT ME CSS *********************************************************************/
+main {
+    position: relative;
+    top: 70px;
+    background-color: #f7f7f7;
+}
+
+main h2 {
+    text-align: center; 
+    padding: 35px 0; 
+}
+
+.form-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #cacaca;
+    border-radius:15px;
+}
+
+.container {
+    padding-bottom: 35px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px 0;
+    box-sizing: border-box;
+    border: 1px solid #cacaca;
+    border-radius: 15px;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    width: 100%;
+    background-color: rgb(30, 170, 185);
+    color: #000000;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius:15px;
+}
+
+input[type="submit"]:hover {
+    width: 100%;
+    background-color: rgb(0, 160, 255);
+}
+
+.error-message {
+    color: red;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
