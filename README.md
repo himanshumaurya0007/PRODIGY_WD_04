@@ -17,10 +17,8 @@ This website serves as a portfolio showcasing Himanshu Maurya's skills, projects
 This project contains the source code for Himanshu Maurya's personal website. It includes HTML, CSS, and JavaScript files that collectively form the website.
 ## Features
 
-- **Responsive Design:** The website is designed to be responsive, ensuring optimal viewing experience across various devices and screen sizes.
 - **Navigation Menu:** A navigation menu is provided at the top of each page, allowing users to easily navigate between different sections of the website.
 - **About Me Section:** This section provides a brief introduction to Himanshu Maurya, highlighting his education, skills, and interests.
-- **Portfolio:** Himanshu Maurya's projects and accomplishments are showcased in the portfolio section.
 - **Contact Me Form:** A contact form is available for visitors to reach out to Himanshu Maurya directly.
 - **Social Media Integration:** Links to Himanshu Maurya's social media profiles are provided, allowing visitors to connect with him on various platforms.
 - **Footer:** The footer section contains quick links, social media links, and copyright information.
