@@ -33,20 +33,10 @@ This project contains the source code for Himanshu Maurya's personal website. It
 
 To run the website locally, follow these steps:
 
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/himanshumaurya0007/PRODIGY_WD_04.git
-```
-
-2. Move to the `index.html` file folder.
-
-```bash
-cd  PRODIGY_WD_04/html/
-```
-
-3. Double click on `index.html` file to open in browser.
-
+1. Clone this repository to your local machine.
+2. Navigate to the `PRODIGY_WD_04/html` folder.
+3. Open `index.html` file in your web browser.
+   
 ## Usage
 
 Feel free to explore the website to learn more about Himanshu Maurya, his projects, and how to contact him. You can navigate between different sections using the navigation menu, fill out the contact form to send a message directly to Himanshu Maurya, and click on the social media icons in the footer to connect with him on various platforms.
